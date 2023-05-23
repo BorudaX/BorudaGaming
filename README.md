@@ -2,7 +2,8 @@
 - 👀 I’m interested in computers, math and physics!
 - 🌱 Currently know but still learning how to code in HTML, CSS, Python, and Java
 - 💞️ Reach out! I'm looking to collaborate in any type of project! :)
-- 📫 You can reach me through borudagamer@gmail.com
+- linkedin.com/ru-schuurs
+- rubenaguiloschuurs@gmail.com
 
 <!---
 BorudaX/BorudaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
