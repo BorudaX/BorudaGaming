@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Borudagaming
-- 👀 I’m interested in computers, math and physics!! 
-- 🌱 I’m currently learning to code with Lua and I'm approaching new languages.
-- 💞️ I’m looking to collaborate on any type of project I find online, no preferences (yet).
+- 👋 Hi, I’m @BorudaX
+- 👀 I’m interested in computers, math and physics!
+- 🌱 Currently know but still learning how to code in HTML, CSS, Python, and Java
+- 💞️ Reach out! I'm looking to collaborate in any type of project! :)
 - 📫 You can reach me through borudagamer@gmail.com
 
 <!---
-Borudagaming/Borudagaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BorudaX/BorudaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
